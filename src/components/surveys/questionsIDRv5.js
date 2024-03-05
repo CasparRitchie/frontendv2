@@ -24,11 +24,11 @@ const questions_json = {
                         },
                         {
                             "value": "2",
-                            "text": "Gestionnaire B"
+                            "text": "MRS"
                         },
                         {
                             "value": "3",
-                            "text": "Gestionnaire C"
+                            "text": "Dupont Restauration"
                         },
                         {
                             "value": "6",
@@ -38,10 +38,6 @@ const questions_json = {
                             "value": "8",
                             "text": "Elior"
                         },
-                        {
-                            "value": "9",
-                            "text": "Caspar"
-                        }
                     ]
                 },
                 {
@@ -52,27 +48,15 @@ const questions_json = {
                     "choices": [
                         {
                             "value": "1",
-                            "text": "Terry"
+                            "text": "Brun"
                         },
                         {
                             "value": "2",
-                            "text": "Sanders"
+                            "text": "Lefèvre"
                         },
                         {
                             "value": "3",
                             "text": "Uptonius"
-                        },
-                        {
-                            "value": "5",
-                            "text": "White"
-                        },
-                        {
-                            "value": "7",
-                            "text": "test"
-                        },
-                        {
-                            "value": "8",
-                            "text": "testet"
                         }
                     ]
                 },
