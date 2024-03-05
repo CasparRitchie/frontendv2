@@ -1,0 +1,144 @@
+{
+    "client_contacts": [
+        {
+            "client_contact_id": "3",
+            "client_contact_role": "testeur"
+        }
+    ],
+    "restaurant_info": [
+        {
+            "Horaires du self": [
+                {
+                    "horaires_du_self_debut": "11:30",
+                    "horaires_du_self_fin": "14:00"
+                }
+            ],
+            "nombre_de_repas": 199,
+            "nb_places_assises": 188,
+            "restaurant_id": "2"
+        }
+    ],
+    "audit_date": "2023-01-01",
+    "gestionnaire_nom": "2",
+    "auditeur_nom": "3",
+    "client_nom": "5",
+    "sous_titre_Le personnel": [
+        {
+            "response_La tenue de travail _3883": 2,
+            "response_L'accueil, l'amabilité, le sourire _3884": 2,
+            "response_Les informations et le conseil _3885": 2,
+            "comment_Les informations et le conseil _3885": "observation sur les informations et le conseil"
+        }
+    ],
+    "sous_titre_0": [
+        {
+            "response_Disponibilité et état des couverts _3870": 2,
+            "response_Le personnel _3882": 2,
+            "response_Respect des horaires de service _3881": 2,
+            "response_Environnement / décoration _3880": 2,
+            "response_Temps d'attente aux stands _3879": 2,
+            "response_Propreté et état du matériel de distribution _3878": 2,
+            "response_Propreté et état des locaux _3877": 2,
+            "response_Maîtrise des flux _3876": 2,
+            "response_Uniformité de la vaisselle aux denrées _3875": 2,
+            "response_Affichage des stands _3874": 2,
+            "response_Disponibilité des informations sur les allergènes _3873": 2,
+            "response_État des assiettes _3872": 2,
+            "response_Disponibilité et état des verres _3871": 2,
+            "response_Disponibilité et état des plateaux _3869": 2
+        }
+    ],
+    "sous_titre_0_1": [
+        {
+            "response_Propreté des chaises et des tables _3913": 2,
+            "response_Propreté des micro-ondes_3914": 2,
+            "response_Propreté des fontaines à eau_3915": 2,
+            "response_Disponibilité des places assises_3916": 2,
+            "response_Ambiance (acoustique, luminosité) _3917": 2
+        }
+    ],
+    "sous_titre_0_2": [
+        {
+            "response_Affichage des horaires d'ouverture du restaurant _3867": 2,
+            "response_Affichage des plats / menus _3868": 2
+        }
+    ],
+    "sous_titre_0_3": [
+        {
+            "response_Adaptation choix / espace _3887": 2,
+            "response_Alignement et présentation _3886": 2
+        }
+    ],
+    "sous_titre_Pain / Condiments": [
+        {
+            "response_Affichage / réapprovisionnement pain _3910": 2,
+            "response_Affichage / réapprovisionnement condiments _3911": 2,
+            "response_Qualité du pain / condiments _3912": 2
+        }
+    ],
+    "sous_titre_Les fruits": [
+        {
+            "response_Affichage, lisibilité (nom, tarifs...) _3900": 2,
+            "response_Accessibilité / réapprovisionnement _3901": 2
+        }
+    ],
+    "sous_titre_Les HO dressés": [
+        {
+            "response_Affichage, lisibilité (nom, tarifs...) _3888": 2,
+            "response_Température de service _3889": 5,
+            "response_Affichage, lisibilité (nom, tarifs...) _3890": 2
+        }
+    ],
+    "sous_titre_Les desserts en libre-service": [
+        {
+            "response_Température de service _3909": 2,
+            "response_Accessibilité / réapprovisionnement _3908": 2,
+            "response_Affichage, lisibilité (nom, tarifs...) _3907": 2
+        }
+    ],
+    "sous_titre_Les desserts dressés": [
+        {
+            "response_Température de service _3904": 2,
+            "response_Accessibilité / réapprovisionnement _3903": 2,
+            "response_Affichage, lisibilité (nom, tarifs...) _3902": 2
+        }
+    ],
+    "sous_titre_Les fromages": [
+        {
+            "response_Accessibilité / réapprovisionnement _3899": 2,
+            "response_Affichage, lisibilité (nom, tarifs...) _3898": 2
+        }
+    ],
+    "sous_titre_Les HO en libre-service": [
+        {
+            "response_Chaleur des assiettes _3897": 2,
+            "response_Accessibilité / réapprovisionnement _3891": 2,
+            "response_Température de service _3892": 2,
+            "response_Dressage et présentation / gestes de service _3894": 2,
+            "response_Affichage, lisibilité (nom, tarifs...) _3895": 2,
+            "response_Adaptation choix / espace _3896": 2
+        }
+    ],
+    "sous_titre_Les yaourts": [
+        {
+            "response_Affichage, lisibilité (nom, tarifs...) _3905": 2,
+            "response_Accessibilité / réapprovisionnement _3906": 2
+        }
+    ],
+    "sous_titre_0_4": [
+        {
+            "response_Accessibilité convoyeurs / échelles _3918": 2,
+            "response_Propreté des murs et des sols _3919": 2,
+            "response_Propreté du convoyeur / échelles _3920": 2
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
