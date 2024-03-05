@@ -15,7 +15,9 @@
     "survey-react-ui": "^1.9.132",
     "web-vitals": "^2.1.4"
   },
-  "devDependencies": {"@babel/plugin-proposal-private-property-in-object": "^0.1"
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^1.x",
+    "@babel/transform-proposal-private-property-in-object": "^1.x"
   },
   "engines": {
     "node": ">=18.12.1",
