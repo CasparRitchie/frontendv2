@@ -15,7 +15,12 @@
     "survey-react-ui": "^1.9.132",
     "web-vitals": "^2.1.4"
   },
-  "devDependencies": {"@babel/plugin-proposal-private-property-in-object": "^0.1"},
+  "devDependencies": {"@babel/plugin-proposal-private-property-in-object": "^0.1"
+  },
+  "engines": {
+    "node": ">=18.12.1",
+    "npm": "8.19"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
