@@ -44,8 +44,8 @@ function App() {
               <Route path="/salutations" element={<Salutations />} />
               <Route path="/" element={<Salutations />} />
               <Route path="/survey" element={<SurveyComponent />} />
-              {/* <Route path="/surveyIDRv5" element={<MySurvey />} />
-              <Route path="/" element={<MySurvey />} /> */}
+              {/* <Route path="/surveyIDRv5" element={<MySurvey />} /> */}
+              <Route path="/" element={<SurveyComponent />} />
               </Routes>
           </div>
       </Router>

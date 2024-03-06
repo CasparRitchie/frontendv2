@@ -53,10 +53,6 @@ const questions_json = {
                         {
                             "value": "2",
                             "text": "Lefèvre"
-                        },
-                        {
-                            "value": "3",
-                            "text": "Uptonius"
                         }
                     ]
                 },
